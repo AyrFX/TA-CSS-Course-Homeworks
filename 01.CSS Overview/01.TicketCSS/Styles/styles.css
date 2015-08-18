@@ -1,0 +1,51 @@
+﻿body {
+    background-color: #595959;
+    font-family: Arial;
+}
+
+th {
+    text-align: left;
+    color: #bbbbbb;
+    font-size: 1.2em;
+    font-weight: normal;
+}
+
+tr > td:first-child {
+    text-align: left;
+    vertical-align: top;
+    color: white;
+    font-style: italic;
+}
+
+tr > td:nth-child(2n){
+    vertical-align: central;
+}
+
+a {
+    text-decoration: none;
+    font-style: normal;
+}
+
+#dot {
+    padding: 0;
+	margin: 0;
+	width:0.8em;
+	height:0.8em;
+}
+
+#redLine{
+    color: red;
+    font-style: normal;
+}
+
+.whiteLine{
+    color: white;
+}
+
+.greyLine{
+    color: #909d97;
+}
+
+#orangeLine {
+    color: #df673e;
+}

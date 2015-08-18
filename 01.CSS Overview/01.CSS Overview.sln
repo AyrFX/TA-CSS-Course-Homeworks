@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.TicketCSS", "01.TicketCSS\01.TicketCSS.csproj", "{C6F1D52D-451B-4CF4-A6C6-D76F22CA06BD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.International-Employees", "02.International-Employees\02.International-Employees.csproj", "{EE05ED52-35DB-4991-88E8-80627E7282E6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.Forum-Posts", "03.Forum-Posts\03.Forum-Posts.csproj", "{D45AFDC2-1342-4379-BE22-4A4323F472DB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C6F1D52D-451B-4CF4-A6C6-D76F22CA06BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C6F1D52D-451B-4CF4-A6C6-D76F22CA06BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C6F1D52D-451B-4CF4-A6C6-D76F22CA06BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C6F1D52D-451B-4CF4-A6C6-D76F22CA06BD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EE05ED52-35DB-4991-88E8-80627E7282E6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE05ED52-35DB-4991-88E8-80627E7282E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE05ED52-35DB-4991-88E8-80627E7282E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE05ED52-35DB-4991-88E8-80627E7282E6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D45AFDC2-1342-4379-BE22-4A4323F472DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D45AFDC2-1342-4379-BE22-4A4323F472DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D45AFDC2-1342-4379-BE22-4A4323F472DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D45AFDC2-1342-4379-BE22-4A4323F472DB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
